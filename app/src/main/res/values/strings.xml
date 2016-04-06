@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TheFinalProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity1">activity1</string>
+    <string name="title_activity_activity2">activity2</string>
+    <string name="title_activity_test">TestAc</string>
+</resources>

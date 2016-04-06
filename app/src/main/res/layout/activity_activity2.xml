@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000"
+    android:orientation="vertical"
+    >
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="back"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:background="#88cc00"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:onClick="back"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:src="@drawable/monopoly"
+        android:layout_marginTop="10dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="The Monopoly game's origin in 1935, started out when Charles Darrow drew a game board on a round piece of oilcloth that he had in his closet. His friends and family enjoyed the game, so he began to sell copies of the game for $4.00 each - an expensive cost for those days.
+When Charles was eventually getting up to 10 orders a day (all the games were hand-made), his life ended up revolving around collecting games. When he first presented it to Parker Brothers, they complained that the game took way too long and there were 52 errors reported. Eventually they accepted and Charles would receive a royalty for every game sold. Parker Brothers did re-write the rules for added clarity and change the board to the modern square shape, and eventually also added Monopoly mascot Mr. Monopoly. Now, the Monopoly game includes the new speed die, a partially newly-designed board, a few new tokens and even more features to make the game very exciting! The rules are often argued upon, so here are the distinct features and rules of the game. If you still have any disputes while playing the game, you can write Parker Brothers via mail."
+        android:textStyle="bold"
+        android:textColor="#88cc00"
+        android:textSize="12dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"/>
+
+</LinearLayout>
